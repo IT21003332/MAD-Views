@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tute1Views</string>
+    <string name="sbmt">Submit</string>
+    <string name="entMsg">Enter the Message</string>
+</resources>
